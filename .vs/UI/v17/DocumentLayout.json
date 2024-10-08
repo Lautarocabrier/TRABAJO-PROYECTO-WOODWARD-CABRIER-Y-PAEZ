@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAB6393-8601-4171-84AD-7D0821E6CC63}|DAL\\DAL.csproj|c:\\users\\windows\\desktop\\proyecto 1 - gimnasio - cabrier, paez, woodward\\dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAB6393-8601-4171-84AD-7D0821E6CC63}|DAL\\DAL.csproj|solutionrelative:dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A713EA-8217-40C9-8756-014540A75660}|ENTIDAD\\ENTIDAD.csproj|c:\\users\\windows\\desktop\\proyecto 1 - gimnasio - cabrier, paez, woodward\\entidad\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A713EA-8217-40C9-8756-014540A75660}|ENTIDAD\\ENTIDAD.csproj|solutionrelative:entidad\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAB6393-8601-4171-84AD-7D0821E6CC63}|DAL\\DAL.csproj|c:\\users\\windows\\desktop\\proyecto 1 - gimnasio - cabrier, paez, woodward\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1AAB6393-8601-4171-84AD-7D0821E6CC63}|DAL\\DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A713EA-8217-40C9-8756-014540A75660}|ENTIDAD\\ENTIDAD.csproj|c:\\users\\windows\\desktop\\proyecto 1 - gimnasio - cabrier, paez, woodward\\entidad\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A713EA-8217-40C9-8756-014540A75660}|ENTIDAD\\ENTIDAD.csproj|solutionrelative:entidad\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3DBCB4-4E68-42E2-9073-1CBAA9F8A830}|UI\\UI.csproj|C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\ui\\frmpromotions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF3DBCB4-4E68-42E2-9073-1CBAA9F8A830}|UI\\UI.csproj|solutionrelative:ui\\frmpromotions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3DBCB4-4E68-42E2-9073-1CBAA9F8A830}|UI\\UI.csproj|C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\ui\\frmnewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF3DBCB4-4E68-42E2-9073-1CBAA9F8A830}|UI\\UI.csproj|solutionrelative:ui\\frmnewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3DBCB4-4E68-42E2-9073-1CBAA9F8A830}|UI\\UI.csproj|C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\ui\\frmmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3DBCB4-4E68-42E2-9073-1CBAA9F8A830}|UI\\UI.csproj|solutionrelative:ui\\frmmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3DBCB4-4E68-42E2-9073-1CBAA9F8A830}|UI\\UI.csproj|C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\ui\\frmmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF3DBCB4-4E68-42E2-9073-1CBAA9F8A830}|UI\\UI.csproj|solutionrelative:ui\\frmmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3DBCB4-4E68-42E2-9073-1CBAA9F8A830}|UI\\UI.csproj|C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\ui\\frmactivities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF3DBCB4-4E68-42E2-9073-1CBAA9F8A830}|UI\\UI.csproj|solutionrelative:ui\\frmactivities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3DBCB4-4E68-42E2-9073-1CBAA9F8A830}|UI\\UI.csproj|C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\ui\\frmaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF3DBCB4-4E68-42E2-9073-1CBAA9F8A830}|UI\\UI.csproj|solutionrelative:ui\\frmaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3DBCB4-4E68-42E2-9073-1CBAA9F8A830}|UI\\UI.csproj|C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\UI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3DBCB4-4E68-42E2-9073-1CBAA9F8A830}|UI\\UI.csproj|solutionrelative:UI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56D7523-6EF1-42B8-94C2-80DC9D7B6D1D}|BLL\\BLL.csproj|C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\BLL\\CN_User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56D7523-6EF1-42B8-94C2-80DC9D7B6D1D}|BLL\\BLL.csproj|solutionrelative:BLL\\CN_User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\DAL\\Connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 106,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\DAL\\App.config",
+              "RelativeDocumentMoniker": "DAL\\App.config",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\DAL\\App.config",
+              "RelativeToolTip": "DAL\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-08T19:51:16.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\ENTIDAD\\User.cs",
+              "RelativeDocumentMoniker": "ENTIDAD\\User.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\ENTIDAD\\User.cs",
+              "RelativeToolTip": "ENTIDAD\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:35:57.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Entry.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\ENTIDAD\\Entry.cs",
+              "RelativeDocumentMoniker": "ENTIDAD\\Entry.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\ENTIDAD\\Entry.cs",
+              "RelativeToolTip": "ENTIDAD\\Entry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:32:12.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\DAL\\Conexion.cs",
+              "RelativeDocumentMoniker": "DAL\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\DAL\\Conexion.cs",
+              "RelativeToolTip": "DAL\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:10:14.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmPromotions.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\UI\\frmPromotions.cs",
+              "RelativeDocumentMoniker": "UI\\frmPromotions.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\UI\\frmPromotions.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI\\frmPromotions.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T03:59:57.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmNewUser.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\UI\\frmNewUser.cs",
+              "RelativeDocumentMoniker": "UI\\frmNewUser.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\UI\\frmNewUser.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI\\frmNewUser.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T03:59:54.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\UI\\frmMainMenu.cs",
+              "RelativeDocumentMoniker": "UI\\frmMainMenu.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\UI\\frmMainMenu.cs",
+              "RelativeToolTip": "UI\\frmMainMenu.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:13:53.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmMainMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\UI\\frmMainMenu.cs",
+              "RelativeDocumentMoniker": "UI\\frmMainMenu.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\UI\\frmMainMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI\\frmMainMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T03:56:25.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmActivities.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\UI\\frmActivities.cs",
+              "RelativeDocumentMoniker": "UI\\frmActivities.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\UI\\frmActivities.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI\\frmActivities.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T03:55:33.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmAccess.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\UI\\frmAccess.cs",
+              "RelativeDocumentMoniker": "UI\\frmAccess.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\UI\\frmAccess.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI\\frmAccess.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T03:55:18.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\UI\\Program.cs",
+              "RelativeDocumentMoniker": "UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\UI\\Program.cs",
+              "RelativeToolTip": "UI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T03:52:40.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\DAL\\Connection.cs",
+              "RelativeDocumentMoniker": "DAL\\Connection.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\DAL\\Connection.cs",
+              "RelativeToolTip": "DAL\\Connection.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T03:51:05.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CN_User.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\BLL\\CN_User.cs",
+              "RelativeDocumentMoniker": "BLL\\CN_User.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\\BLL\\CN_User.cs",
+              "RelativeToolTip": "BLL\\CN_User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T03:49:46.044Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

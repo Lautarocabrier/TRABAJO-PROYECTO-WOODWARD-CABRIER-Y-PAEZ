@@ -1,0 +1,12 @@
+C:\Users\Windows\Desktop\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\ENTIDAD\obj\Debug\ENTIDAD.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\ENTIDAD\obj\Debug\ENTIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\ENTIDAD\bin\Debug\ENTIDAD.dll.config
+C:\Users\Windows\Desktop\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\ENTIDAD\bin\Debug\ENTIDAD.dll
+C:\Users\Windows\Desktop\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\ENTIDAD\bin\Debug\ENTIDAD.pdb
+C:\Users\Windows\Desktop\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\ENTIDAD\bin\Debug\EntityFramework.dll
+C:\Users\Windows\Desktop\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\ENTIDAD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Windows\Desktop\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\ENTIDAD\bin\Debug\EntityFramework.xml
+C:\Users\Windows\Desktop\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\ENTIDAD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Windows\Desktop\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\ENTIDAD\obj\Debug\ENTIDAD.csproj.Up2Date
+C:\Users\Windows\Desktop\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\ENTIDAD\obj\Debug\ENTIDAD.dll
+C:\Users\Windows\Desktop\Proyecto 1 - Gimnasio - Cabrier, Paez, Woodward\ENTIDAD\obj\Debug\ENTIDAD.pdb
